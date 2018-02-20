@@ -1,5 +1,4 @@
-Multi Language
-==============
+# Multi Language
 
 Multi Language Jquery Plugin
 
