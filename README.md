@@ -3,20 +3,18 @@ Multi Language
 
 Multi Language Jquery Plugin
 
-How to use:
------
+## How to use:
 
 getLanguage() // choose language by localStorage or default in jQuery config
 setLanguage('en') // change language immediately
 
-Demo:
------
+## Demo:
 [demo]
 
 
 
 [demo]:
 
-## Special Thanks
+## Special Thanks:
 - @mingchoi
 
