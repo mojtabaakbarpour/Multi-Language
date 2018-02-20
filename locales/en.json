@@ -1,0 +1,27 @@
+{
+  "head": {
+    "title": "Multiple Language"
+  },
+  "body": {
+    "multi-language": "Multi Language Jquery Plugin",
+    "how-to-use": "How to use:",
+    "demo": "Demo:"
+  },
+  "ul": {
+    "home": "Home",
+    "contact": "Contact Us",
+    "about": "About Us"
+  },
+  ".classA": {
+    "msg#1": "Class A Some message #1",
+    "msg#2": "Class A Some message #2"
+  },
+  "#idA": {
+    "msg#1": "Some message from Id A #1",
+    "msg#2": "Some message from Id A #2"
+  },
+  "code": {
+    "how-default": " // choose language by localStorage or default in jQuery config",
+    "how-change": " // change language immediately"
+  }
+}
