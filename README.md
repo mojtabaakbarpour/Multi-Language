@@ -1,6 +1,6 @@
 # Multi Language
 
-Multi Language Jquery Plugin
+> Multi Language Jquery Plugin
 
 ## How to use:
 
