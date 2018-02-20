@@ -16,7 +16,7 @@ setLanguage('en') // change language immediately
 
 
 
-[demo]:
+[demo]:http://github.mojtabaap.ir/demo/multi-language/
 
 ## Special Thanks:
 - @mingchoi
