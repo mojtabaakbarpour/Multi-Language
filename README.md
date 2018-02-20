@@ -15,7 +15,6 @@ Demo:
 
 
 
-[demo]:http://mingchoi.github.io/Multi-Language/
-
+[demo]:
 
 
